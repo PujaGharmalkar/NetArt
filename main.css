@@ -18,10 +18,6 @@ text-decoration: none;
 body {
   background-color: turquoise;
 }
-/pagetwo/
-a:active {
-  color: blue;
-}
 a {
   color: hotpink;
 }
@@ -29,6 +25,8 @@ a:visited {
   color: green;
 }
 a:visited {
-  background-color: hotpink;
-  
+  background-color: red;
 }
+a:active {
+  background-color: red;
+  }
